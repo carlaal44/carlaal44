@@ -21,10 +21,3 @@ Most of my projects are focused on C, Java and backend fundamentals, with a part
 * **push_swap** → sorting algorithm project
 * **pipex** → UNIX pipe recreation using processes and file descriptors
 * **so_long** → small 2D game developed in C
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlaal44\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaal44\&layout=compact\&theme=tokyonight\&hide_border=true)
-
