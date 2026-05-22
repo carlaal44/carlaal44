@@ -1,16 +1,30 @@
-## Hi there 👋
+# Carla Fernández Álvarez 👋
 
-<!--
-**carlaal44/carlaal44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DAM Dual student at U-tad with experience in backend development and low-level programming.
 
-Here are some ideas to get you started:
+Most of my projects are focused on C, Java and backend fundamentals, with a particular interest in APIs, algorithms and systems programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-222222?style=flat-square\&logo=c)
+![Java](https://img.shields.io/badge/Java-222222?style=flat-square\&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-222222?style=flat-square\&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-222222?style=flat-square\&logo=mysql)
+![Git](https://img.shields.io/badge/Git-222222?style=flat-square\&logo=git)
+![Linux](https://img.shields.io/badge/Linux-222222?style=flat-square\&logo=linux)
+
+## 📌 Featured Projects
+
+* **libft** → custom C library
+* **ft_printf** → recreation of the printf function in C
+* **get_next_line** → line-by-line file reader in C
+* **push_swap** → sorting algorithm project
+* **pipex** → UNIX pipe recreation using processes and file descriptors
+* **so_long** → small 2D game developed in C
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlaal44\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaal44\&layout=compact\&theme=tokyonight\&hide_border=true)
+
